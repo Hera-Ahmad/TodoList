@@ -1,2 +1,2 @@
 # TodoList
-This is a todo app from hera ahamd khan
+This is a todo app from hera ahmad khan
